@@ -2,7 +2,7 @@ while (cat) {
 
 	print (28.6)
 }
-read
+read pato
 'a'
 g
-read
+read 9
